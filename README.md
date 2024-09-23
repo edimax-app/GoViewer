@@ -1,1 +1,1 @@
-https://edimax-app.github.io/GoViewer/mercury/UAT/AdHoc.html
+https://edimax-app.github.io/GoViewer/mercury/UAT5/AdHoc.html
